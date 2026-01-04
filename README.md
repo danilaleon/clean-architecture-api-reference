@@ -1,1 +1,1 @@
-# clean-architecture-api-reference
+# Clean Architecture API reference project.
